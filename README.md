@@ -28,6 +28,7 @@ Project 2/
 │   ├── city_analyzer.py           # City analysis implementation
 │   ├── pure_data_processor.py     # Data preprocessing module
 │   └── rejection_classifier.py     # Rejection classification module
+├── insurance_claims_analysis output pdf        # Output Notebook File in PDF Format
 ├── Insurance_auto_data.csv        # Input data file
 ├── README.md                      # This file
 └── requirements.txt               # Python dependencies
